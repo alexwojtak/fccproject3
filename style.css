@@ -1,0 +1,18 @@
+header, footer 
+{
+display: flex;
+flex-direction: row;
+  position: absolute;
+}
+
+@media (min-width:400px)
+{  
+  
+}
+
+#nav-bar{
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
